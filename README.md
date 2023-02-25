@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am a service architect with 9 years experience in IT Service Management currently transitioning to web development. 
 - I've been learning since 2021 and completed various Front-end and Back-end projects available to see in my public repositories.
-- Technology stack used for the mentioned projects: HTML, CSS, JavaScript, TypeScript, Jest, Cypress, React, Redux, Express, NestJS, MongoDB, PostgreSQL.
+- Technology stack used for the mentioned projects: HTML, CSS, JavaScript, TypeScript, Jest, Cypress, React, Redux, Node.js, Express, NestJS, MongoDB, PostgreSQL.
 
 <div id="header" align="center">
   <div id="badges">
